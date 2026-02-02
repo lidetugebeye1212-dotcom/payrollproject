@@ -1,0 +1,13 @@
+**Database Name: payroll_s**
+
+
+
+
+
+**Login Details**
+
+Username: ethan 
+Password: password
+
+Username: admin
+Password: admin
